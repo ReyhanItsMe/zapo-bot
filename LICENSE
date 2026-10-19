@@ -1,0 +1,10 @@
+zapo-bot — Base Bot WhatsApp (Produk Digital)
+
+Lisensi penggunaan untuk pembeli diatur dalam docs/LICENSE-NOTICE.md
+dan/atau perjanjian saat pembelian. File ini adalah placeholder:
+ganti dengan teks lisensi jual Anda (mis. lisensi 1 pembeli = 1 deployment,
+larangan redistribusi/resale source code) sebelum produk didistribusikan.
+
+Perangkat lunak pihak ketiga yang dipakai (zapo-js dan paket @zapo-js/*,
+better-sqlite3, dotenv, qrcode-terminal, sharp) tunduk pada lisensi
+masing-masing (umumnya MIT) — lihat node_modules/<paket>/LICENSE setelah install.

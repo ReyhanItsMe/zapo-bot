@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+data/*
+!data/**/.gitkeep
+*.log
+zapo-bot.zip
